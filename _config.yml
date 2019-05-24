@@ -1,5 +1,5 @@
 # Site settings
-title: 小猪手                     #你博客的标题
+title: jasonzii的博客                     #你博客的标题
 SEOTitle: 你的博客 | 小猪手        #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
 email: You@gmail.com    
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "小猪手你的手是真小"
-sidebar-avatar: /img/avatar_m.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+sidebar-avatar: /img/20190525030718.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
 
@@ -86,7 +86,7 @@ ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
